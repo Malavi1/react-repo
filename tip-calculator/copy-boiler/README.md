@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### This is a tip calculator project
+
+1. Where you can split the money among you friends by instantly adding another friend or closeing the account of any of your friend.
+
 ## Available Scripts
 
 In the project directory, you can run:
